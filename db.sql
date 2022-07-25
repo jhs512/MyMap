@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS my_map;
+CREATE DATABASE my_map;
+USE my_map;
